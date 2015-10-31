@@ -1,0 +1,42 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+                    Gregory Desrosiers' Animated Balls
+
+		 A B O U T   T H E   P R O G R A M M E R                 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Gregory Desrosiers is a full-time student at Champlain College Saint-Lambert,
+an English college outside Montreal, Canada. Pursuing in Computer Science and
+Mathematics, Desrosiers is working on his goal to becoming a full-time
+computer game producer and also being a director for his development team.
+
+He was born in September 1993 in Montreal and has been living in the province
+for more than 19 years. He was diagnosed with Asperger's syndrome in February
+1996 and therefore was put through a special education program for preschoolers
+in 1998, organized by the Riverside School Board in Saint-Lambert. (They are
+now located on the property of Desrosiers' high school, Heritage Regional
+High School. The board still runs the school.)
+
+Desrosiers started learning JAVA in August 2011 in one of his first college
+courses who was taught by a senior teacher. Although initial exercises were
+tricky and Desrosiers got overwhelmed, he was able to achieve 91% as his final
+grade.
+
+His highest performance was recorded at 96%, done in May 2012 after completing
+his second JAVA course.
+
+Desrosiers had earned several rewards and even commenced on projects of his
+own. He was awarded the School Champion Medal for the 2009 Canadian
+Mathematics Competition Pascal Contest, a $100 high school bursary for his
+performance in a lip sync of Justin Bieber's Pray, as well as the principal's
+award from his elementary school graduation in June 2006.
+
+He also wrote his first ever e-book, The Asperger Computer, in March 2013, as
+a spinoff to his original college speech on Asperger's. It was rewritten and
+expanded in June 2013 because of marketing issues.
+
+Today, Desrosiers is taking his fourth JAVA course at college as well as
+four other courses. He has interest in wanting to learn other programming
+languages such as Visual Basic and C++, though he most likely wants to
+start writing a few new e-books to expand his audience first.
